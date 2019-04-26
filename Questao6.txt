@@ -1,0 +1,2 @@
+O React é uma bibliocteca de JavaScript para o desenvolvimento de interfaces de usuarios, que teve inicio no Facebook e agora é Open Source,
+umas de suas principais caracteristicas é o fato de ser baseado em componentes e ser uma linguagem declarativa.
