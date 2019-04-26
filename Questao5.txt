@@ -1,0 +1,2 @@
+Ruby on Rails é um meta-framework, isto é um framework de frameworks, com obejetivo de desenvolver site orientados a banco de dados
+de uma forma mais agil e facil, utilizando dos conceitos DRY e Convention over Configuration.
